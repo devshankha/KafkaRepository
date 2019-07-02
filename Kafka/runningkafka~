@@ -1,0 +1,6 @@
+To start the zookeepr go to==
+C:\Kafka\kafka_2.11-2.2.1\bin\windows> run the command--zookeeper-server-start.bat ..\..\config\zookeeper.properties
+
+
+to start here ==
+C:\Kafka\kafka_2.11-2.2.1\bin\windows>kafka-server-start.bat ..\..\config\server.properties
